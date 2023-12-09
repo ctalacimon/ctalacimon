@@ -10,3 +10,7 @@ My interests and skills include natural sciences and data analysis. I am an enth
 [Hackatom ROSATOM 2022](https://portal.if.usp.br/imprensa/pt-br/node/3891)
 <br>
 [Hackatom ROSATOM 2023](https://www.ipen.br/portal_por/portal/interna.php?secao_id=38&campo=20137)
+
+## Github Stats:
+
+![KeichiTS's Stats](https://github-readme-stats.vercel.app/api?username=ctalacimon&show_icons=true&theme=dark)
